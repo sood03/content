@@ -1,8 +1,8 @@
 {
-  "totalRecords" : 1128, 
+  "totalRecords" : 380, 
   "recordsPerPage" : 200,
   "page" : 2,
-  "nextPage" : "https://raw.githubusercontent.com/arcjsonapi/HoldingValueCalculator/master/paging/holding_JYc6b9d2",
+  "nextPage" : "",
   "data" : [
     {"date" : "20190305", "security" : "Apples and Oranges", "quantity" : 407, "portfolio" : "Equity"},
     {"date" : "20190305", "security" : "Arcesium LLC", "quantity" : 841, "portfolio" : "Technology"},
