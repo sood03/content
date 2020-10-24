@@ -2,7 +2,7 @@
   "totalRecords" : 1128, 
   "recordsPerPage" : 200,
   "page" : 1,
-  "nextPage" : "https://raw.githubusercontent.com/arcjsonapi/HoldingValueCalculator/master/paging/holding_qcZMXnPq",
+  "nextPage" : "https://raw.githubusercontent.com/sood03/content/main/portfolio2",
   "data" : [
     {"date" : "20190101", "security" : "ABC Corporation", "quantity" : 980, "portfolio" : "Growth"},
     {"date" : "20190101", "security" : "Apples and Oranges", "quantity" : 336, "portfolio" : "Balanced"},
