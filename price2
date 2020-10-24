@@ -1,8 +1,8 @@
 {
-  "totalRecords" : 1460, 
+  "totalRecords" : 480, 
   "recordsPerPage" : 250,
   "page" : 2,
-  "nextPage" : "https://raw.githubusercontent.com/arcjsonapi/HoldingValueCalculator/master/paging/pricing_DbCvGcSn",
+  "nextPage" : "",
   "data" : [
     {"date" : "20190304", "security" : "XYZ Private Limited", "price" : 700.04},
     {"date" : "20190304", "security" : "Apples and Oranges", "price" : 551.75},
